@@ -1,3 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿using BoxChallenge.Models;
 
-Console.WriteLine("Hello, World!");
+IBoxChallenge challenge = new BoxChallenge.Models.BoxChallenge();
+
+challenge.GetChallengesStatistics();
