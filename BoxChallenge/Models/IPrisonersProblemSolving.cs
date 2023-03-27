@@ -1,6 +1,6 @@
 namespace BoxChallenge.Models;
 
-public interface IBoxChallenge
+public interface IPrisonersProblemSolving
 {
      public IChallengeStatistic GetChallengesStatistics();
 }
