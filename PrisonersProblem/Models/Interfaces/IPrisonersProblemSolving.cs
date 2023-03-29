@@ -7,7 +7,8 @@ public interface IPrisonersProblemSolving
     {
         for (int i = 0; i < PrisonersNumber; i++)
         {
-            if (!GetSearchSuccessValue(i + 1)) return false;
+            //Each of 100 inmates coming in the room
+            if (!GetSearchSuccessValue(i)) return false;
         }
         return true;
     }

@@ -21,7 +21,7 @@ public class TheBestSolving : IPrisonersProblemSolving
         
         for (int i = 0; i < 50; i++)
         {
-            numberInBox = ProblemBody.Boxes.IndexOf(searchNumber - 1);
+            numberInBox = ProblemBody.Boxes[searchNumber];
             
             if (numberInBox.Equals(searchNumber)) return true;
             searchNumber = numberInBox;
