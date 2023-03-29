@@ -1,5 +1,7 @@
 ﻿using PrisonersProblem.Models;
 
-IPrisonersProblemSolving challenge = new PrisonersProblem.Models.BoxChallenge();
+StatisticСollector statisticСollector = new StatisticСollector(new TheBestSolving());
 
-challenge.GetChallengesStatistics();
+string result = statisticСollector.CollectStatistic(100);
+
+Console.WriteLine(result);

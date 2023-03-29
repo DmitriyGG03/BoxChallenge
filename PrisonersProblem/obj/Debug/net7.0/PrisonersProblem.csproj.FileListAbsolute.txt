@@ -1,0 +1,15 @@
+C:\Users\Dimchik\source\repos\RiderProjects\BoxChallenge\PrisonersProblem\bin\Debug\net7.0\PrisonersProblem.exe
+C:\Users\Dimchik\source\repos\RiderProjects\BoxChallenge\PrisonersProblem\bin\Debug\net7.0\PrisonersProblem.deps.json
+C:\Users\Dimchik\source\repos\RiderProjects\BoxChallenge\PrisonersProblem\bin\Debug\net7.0\PrisonersProblem.runtimeconfig.json
+C:\Users\Dimchik\source\repos\RiderProjects\BoxChallenge\PrisonersProblem\bin\Debug\net7.0\PrisonersProblem.dll
+C:\Users\Dimchik\source\repos\RiderProjects\BoxChallenge\PrisonersProblem\bin\Debug\net7.0\PrisonersProblem.pdb
+C:\Users\Dimchik\source\repos\RiderProjects\BoxChallenge\PrisonersProblem\obj\Debug\net7.0\PrisonersProblem.csproj.AssemblyReference.cache
+C:\Users\Dimchik\source\repos\RiderProjects\BoxChallenge\PrisonersProblem\obj\Debug\net7.0\PrisonersProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dimchik\source\repos\RiderProjects\BoxChallenge\PrisonersProblem\obj\Debug\net7.0\PrisonersProblem.AssemblyInfoInputs.cache
+C:\Users\Dimchik\source\repos\RiderProjects\BoxChallenge\PrisonersProblem\obj\Debug\net7.0\PrisonersProblem.AssemblyInfo.cs
+C:\Users\Dimchik\source\repos\RiderProjects\BoxChallenge\PrisonersProblem\obj\Debug\net7.0\PrisonersProblem.csproj.CoreCompileInputs.cache
+C:\Users\Dimchik\source\repos\RiderProjects\BoxChallenge\PrisonersProblem\obj\Debug\net7.0\PrisonersProblem.dll
+C:\Users\Dimchik\source\repos\RiderProjects\BoxChallenge\PrisonersProblem\obj\Debug\net7.0\refint\PrisonersProblem.dll
+C:\Users\Dimchik\source\repos\RiderProjects\BoxChallenge\PrisonersProblem\obj\Debug\net7.0\PrisonersProblem.pdb
+C:\Users\Dimchik\source\repos\RiderProjects\BoxChallenge\PrisonersProblem\obj\Debug\net7.0\PrisonersProblem.genruntimeconfig.cache
+C:\Users\Dimchik\source\repos\RiderProjects\BoxChallenge\PrisonersProblem\obj\Debug\net7.0\ref\PrisonersProblem.dll
