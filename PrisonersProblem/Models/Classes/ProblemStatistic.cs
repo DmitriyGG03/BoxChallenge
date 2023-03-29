@@ -1,4 +1,4 @@
-namespace BoxChallenge.Models;
+namespace PrisonersProblem.Models;
 
 public class ChallengeStatistic
 {

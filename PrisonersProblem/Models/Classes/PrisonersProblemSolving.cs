@@ -1,10 +1,10 @@
-namespace BoxChallenge.Models;
+namespace PrisonersProblem.Models;
 
 public class PrisonersProblemSolving : IPrisonersProblemSolving
 {
     private const int PrisonersNumber = 100;
     
-    public IChallengeStatistic GetChallengesStatistics()
+    public IProblemStatistic GetChallengesStatistics()
     {
         
     }

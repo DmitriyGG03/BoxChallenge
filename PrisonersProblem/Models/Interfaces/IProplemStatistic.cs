@@ -1,6 +1,6 @@
-namespace BoxChallenge.Models;
+namespace PrisonersProblem.Models;
 
-public interface IChallengeStatistic
+public interface IProblemStatistic
 {
     public int WinNumber { get; set; }
     public int LoseNumber { get; set; }

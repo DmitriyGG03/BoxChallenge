@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoxChallenge", "BoxChallenge\BoxChallenge.csproj", "{9028894C-9C90-480C-97FD-9589D70DCEEB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrisonersProblem", "PrisonersProblem\PrisonersProblem.csproj", "{9028894C-9C90-480C-97FD-9589D70DCEEB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
