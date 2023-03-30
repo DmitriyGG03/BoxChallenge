@@ -25,4 +25,16 @@ public class StatisticСollector : IStatisticСollector
         }
         return Statistic.ToString();
     }
+
+    public double GetDBGStatistic()
+    {
+        string fileData;
+        using (StreamReader streamReader = new StreamReader("DBGStatistic.txt"))
+        {
+            fileData = streamReader.ReadToEnd();
+        }
+
+        IEnumerable<string> mergeResults = fileData.Split().Where(i => i != "");
+        return mergeResults.Sum(i => Convert.ToDouble(i)) / mergeResults.Count();
+    }
 }

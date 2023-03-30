@@ -4,38 +4,21 @@
     <projectFile>BoxChallenge/BoxChallenge.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f79ef01-50e7-46f3-b7fd-c84aa94799b7" name="Changes" comment="Statistics collection has been implemented">
-      <change afterPath="$PROJECT_DIR$/PrisonersProblem.Tests/PrisonersProblem.Tests.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PrisonersProblem.Tests/UnitTest1.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PrisonersProblem.Tests/Usings.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PrisonersProblem.Tests/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PrisonersProblem.Tests/obj/Debug/net7.0/PrisonersProblem.Tests.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PrisonersProblem.Tests/obj/Debug/net7.0/PrisonersProblem.Tests.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PrisonersProblem.Tests/obj/Debug/net7.0/PrisonersProblem.Tests.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PrisonersProblem.Tests/obj/Debug/net7.0/PrisonersProblem.Tests.GlobalUsings.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PrisonersProblem.Tests/obj/Debug/net7.0/PrisonersProblem.Tests.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PrisonersProblem.Tests/obj/Debug/net7.0/PrisonersProblem.Tests.csproj.AssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PrisonersProblem.Tests/obj/Debug/net7.0/PrisonersProblem.Tests.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PrisonersProblem.Tests/obj/Debug/net7.0/PrisonersProblem.Tests.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PrisonersProblem.Tests/obj/PrisonersProblem.Tests.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PrisonersProblem.Tests/obj/PrisonersProblem.Tests.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PrisonersProblem.Tests/obj/PrisonersProblem.Tests.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PrisonersProblem.Tests/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PrisonersProblem.Tests/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PrisonersProblem.Tests/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PrisonersProblem.Tests/obj/rider.project.restore.info" afterDir="false" />
+    <list default="true" id="6f79ef01-50e7-46f3-b7fd-c84aa94799b7" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.BoxChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BoxChallenge/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PrisonersProblem.sln" beforeDir="false" afterPath="$PROJECT_DIR$/PrisonersProblem.sln" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PrisonersProblem/Models/Classes/ProblemBody.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PrisonersProblem/Models/Classes/ProblemBody.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PrisonersProblem/Models/Classes/ProblemStatistic.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PrisonersProblem/Models/Classes/ProblemStatistic.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PrisonersProblem/Models/Classes/TheBestSolving.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PrisonersProblem/Models/Classes/TheBestSolving.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PrisonersProblem/Models/Interfaces/IPrisonersProblemSolving.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PrisonersProblem/Models/Interfaces/IPrisonersProblemSolving.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PrisonersProblem/Models/Interfaces/IProplemStatistic.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PrisonersProblem/Models/Interfaces/IProblemStatistic.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PrisonersProblem/Models/Interfaces/IProblemStatistic.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PrisonersProblem/Models/Interfaces/IProblemStatistic.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PrisonersProblem/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PrisonersProblem/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PrisonersProblem/bin/Debug/net7.0/PrisonersProblem.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PrisonersProblem/bin/Debug/net7.0/PrisonersProblem.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PrisonersProblem/bin/Debug/net7.0/PrisonersProblem.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/PrisonersProblem/bin/Debug/net7.0/PrisonersProblem.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PrisonersProblem/obj/Debug/net7.0/PrisonersProblem.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/PrisonersProblem/obj/Debug/net7.0/PrisonersProblem.csproj.CoreCompileInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PrisonersProblem/obj/Debug/net7.0/PrisonersProblem.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PrisonersProblem/obj/Debug/net7.0/PrisonersProblem.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PrisonersProblem/obj/Debug/net7.0/PrisonersProblem.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/PrisonersProblem/obj/Debug/net7.0/PrisonersProblem.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PrisonersProblem/obj/Debug/net7.0/ref/PrisonersProblem.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PrisonersProblem/obj/Debug/net7.0/ref/PrisonersProblem.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PrisonersProblem/obj/Debug/net7.0/refint/PrisonersProblem.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PrisonersProblem/obj/Debug/net7.0/refint/PrisonersProblem.dll" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,7 +95,7 @@
       <updated>1679938288016</updated>
       <workItem from="1679938288937" duration="22000" />
       <workItem from="1679938365372" duration="3767000" />
-      <workItem from="1680085247630" duration="13370000" />
+      <workItem from="1680085247630" duration="18811000" />
     </task>
     <task id="LOCAL-00001" summary="Model template created">
       <created>1679939852433</created>
@@ -149,7 +132,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680094109992</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Release (without UTests)">
+      <created>1680100792940</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1680100792940</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -176,6 +166,7 @@
     <MESSAGE value="New rename" />
     <MESSAGE value="The best solution to the problem has been implemented" />
     <MESSAGE value="Statistics collection has been implemented" />
-    <option name="LAST_COMMIT_MESSAGE" value="Statistics collection has been implemented" />
+    <MESSAGE value="Release (without UTests)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Release (without UTests)" />
   </component>
 </project>

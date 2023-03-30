@@ -2,12 +2,9 @@ namespace PrisonersProblem.Models;
 
 public class TheBestSolving : IPrisonersProblemSolving
 {
-    public ProblemBody ProblemBody { get; init; }
-
-    public TheBestSolving() : base()
-    {
-        ProblemBody = new ProblemBody();
-    }
+    public static ProblemBody ProblemBody { get; set; }
+    public TheBestSolving() : base() 
+    { }
 
     /// <summary>
     /// Simulates the search for his number by each prisoner
@@ -21,9 +18,9 @@ public class TheBestSolving : IPrisonersProblemSolving
         
         for (int i = 0; i < 50; i++)
         {
-            numberInBox = ProblemBody.Boxes[searchNumber];
+            numberInBox = ProblemBody.Drawers[searchNumber];
             
-            if (numberInBox.Equals(searchNumber)) return true;
+            if (numberInBox.Equals(prisonerNumber)) return true;
             searchNumber = numberInBox;
         }
 
